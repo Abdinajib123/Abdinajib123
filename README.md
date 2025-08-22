@@ -84,7 +84,7 @@ I'm a passionate full-stack developer with expertise in mobile application devel
 
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100094295147781" target="_blank">
-    <img src="https://img.shields.io/badge/Abdinajib Abdullahi Muse-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Abdinajib_Abdullahi_Muse-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/612112932" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
