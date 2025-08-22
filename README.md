@@ -108,8 +108,8 @@ I'm a passionate full-stack developer with expertise in mobile application devel
 ## 👨‍💻 Recent Projects
 
 ### 📱 Mobile Apps
-- **[App Name]** - Flutter-based app with [features]
-- **[App Name]** - Cross-platform solution for [purpose]
+- **[https://github.com/Abdinajib123/coffeApp.git]** - Flutter-based app 
+
 
 ### 🌐 Web Applications
 - **[Project Name]** - Full-stack application using MERN stack
