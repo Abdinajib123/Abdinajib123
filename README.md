@@ -92,7 +92,7 @@ I'm a passionate full-stack developer with expertise in mobile application devel
   <a href="https://www.linkedin.com/in/abdinajib-abdullahi-muse-8b8026357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/abdinajibabdullahimuse" target="_blank">
+  <a href="https://www.instagram.com/cabdicabdulaahi8899" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
