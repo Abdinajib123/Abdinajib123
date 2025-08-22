@@ -83,7 +83,7 @@ I'm a passionate full-stack developer with expertise in mobile application devel
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.facebook.com/Abdinajib Abdullahi Muse" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100094295147781" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/612112932" target="_blank">
