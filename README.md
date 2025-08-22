@@ -123,15 +123,5 @@ I'm a passionate full-stack developer with expertise in mobile application devel
 - UI/UX designs for mobile applications
 - Brand identity and graphic design projects
 
----
 
-## 📈 Development Activity
 
-<!-- GitHub metrics - you can use https://github.com/lowlighter/metrics -->
-![Metrics](https://metrics.lecoq.io/Abdinajib123?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Africa%2FMogadishu)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdinajib123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
