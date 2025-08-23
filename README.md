@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Abdinajib+Abdullahi+🧑;&color=9a2015" />
 </h1>
-
+ 
 <h3 align="center">Full-Stack Developer | Mobile App Specialist | UI/UX & Graphic Designer</h3>
 
 <p align="center">
